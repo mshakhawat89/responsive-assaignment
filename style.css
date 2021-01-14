@@ -1,16 +1,23 @@
 header img{
 width: 300px;
 }
+
+.my-header{
+background-color:whitesmoke;
+
+
+}
 .card-jacket{
 border-radius: 20px;
 height: 500px;
-width: 320px;
+width: 325px;
 background-color: #f5f0f0;
 border:0;
 
 }
 h2{
-    color: darkorange;
+    color: gold;
+    font-weight: 700;
 }
 
 .my-card{
@@ -53,4 +60,5 @@ margin-left: 150px;
 .my-footer{
     text-align: center;
     margin-bottom:30px;
+    font-weight: 600;
 }
