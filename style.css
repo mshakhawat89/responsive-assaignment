@@ -4,10 +4,13 @@ width: 300px;
 .card-jacket{
 border-radius: 20px;
 height: 500px;
-width: 390px;
+width: 320px;
 background-color: #f5f0f0;
 border:0;
 
+}
+h2{
+    color: darkorange;
 }
 
 .my-card{
